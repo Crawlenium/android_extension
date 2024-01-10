@@ -11,7 +11,8 @@
   },
   "permissions": [
     "scripting",
-    "activeTab"
+    "activeTab",
+    "contextMenus"
   ],
   "action": {
     "default_popup": "index.html"
